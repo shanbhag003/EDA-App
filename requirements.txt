@@ -1,6 +1,6 @@
-streamlit==0.61.0
+streamlit>=0.61.0
 pandas==0.25.3
 numpy==1.18.1
 scikit-learn==0.22.1
 pandas-profiling==3.0.0
-streamlit-pandas-profiling==0.1.2
+streamlit-pandas-profiling>=0.1.2
